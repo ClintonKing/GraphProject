@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Campus Crime</title>
+    
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/demo_table.css" rel="stylesheet">
+    
+    
+</head>
+
+<body>
+<div class="container">
+    <div class="row" id="section-1">
+        <div class="col-md-10 col-lg-10 col-sm-10 col-xs-12">
+            <h1>Campus Crime In The UNC System</h1>
+            <br>
+            <div class="thumbnail">Crime on university campuses is an issue of great concern for students, educators, and legislators across the country. Recently, as campus violence, and especially sexual assault cases have come into the public spotlight state schools have been putting in-place a variety of new policies in the hopes of curving criminal activity on campuses. Use the navigation on the right to explore information about crime on North Carolina college campuses.</div>
+        </div>
+        <div class="col-md-2 col-lg-2 col-sm-2 col-xs-12 hidden-inline-xs">
+            <ul id="nav">
+                <li class="current"><a href="#section-1">title</a></li>
+                <li><a href="#section-4">unc system</a></li>
+                <li><a href="#section-6">sexual offenses</a></li>
+                <li><a href="#section-5">chapel hill</a></li>
+                <li><a href="#section-7">data table</a></li>
+            </ul>
+        </div>
+    </div>
+
+    
+    <hr id="section-4">
+    <div class="row" >
+        <div class="col-md-10 col-lg-10 col-sm-10 col-xs-12">
+            <div id="bar" style="width: 100%; height:400px;"></div>
+            <div class="thumbnail">
+                In recent years there is a clear and drastic decline in overall reported crimes across major North Carolina university campuses. N.C. State in particular has seen a major drop in crime rates since 2005, finally falling below UNC-Chapel Hill in 2012.
+            </div>
+        </div>
+    </div>
+    <hr id="section-6">
+    <div class="row" >
+        <div class="col-md-10 col-lg-10 col-sm-10 col-xs-12">
+            <div id="line" style="width: 100%; height:400px;"></div>
+            <div class="thumbnail">
+                In contrast to overall campus crime rates, the number of forcible sexual offenses has seen a gradual rise since the mid 2000s. UNC-Chapel Hill reported the higher number of sexual assaults in 2012 than any other year in the past seven, though this may be due more to an increase in reports or assault than an increase in sexual crimes.
+            </div>
+        </div>
+    </div>
+    <hr id="section-5">
+    <div class="row" >
+        <div class="col-md-10 col-lg-10 col-sm-10 col-xs-12">
+            <div id="uncPie" style="width: 100%; height:400px;"></div>
+        </div>
+    </div>
+    <hr id="section-7">
+    <div class="row" >
+        <div class="col-md-10 col-lg-10 col-sm-10 col-xs-12">
+            <div class="thumbnail">
+                Here you can view the full data provided by data.gov and the Department of Education.
+            </div>
+            <table id="table"></table>
+        </div>
+    </div>
+    <br><br>
+    <div class="footer" align="center">
+        <p> Created by <a href="clintonjking.com/profile">Clinton King</a> using data from <a href="data.gov">Data.gov</a>.</p>
+    </div>
+</div>
+
+
+
+</body>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery.dataTables.min.js"></script>
+<script src="js/jquery.nav.js"></script>
+<script src="js/jquery.scrollTo-1.4.3.1.js"></script>
+<script src="js/highcharts.js"></script>
+
+<script>
+    
+    //table array
+    aaData= new Array;
+    
+    $(document).ready(function(){
+        loadXML();
+    });
+    
+    $("#nav").onePageNav({
+        currentClass: 'current',
+        changeHash: false,
+        scrollSpeed: 750,
+        scrollThreshold: 0.5,
+        filter: '',
+        easing: 'swing',
+        begin: function(){},
+        end: function(){},
+        scrollChange: function($currentListItem){}
+    });
+    
+    function loadXML(){
+        console.log("laodingXML");
+        $.ajax({
+           type: "GET",
+           url: "data/criminalOffenses/criminalOffensesOnCampus.xml",
+           dataType: "xml",
+           success: parseXML
+        });
+        
+    } //finish loadXML
+    
+    function parseXML(xml){
+        $(xml).find("set").each(function(index){
+            var school= $(this).find("school").text();
+            var campus= $(this).find("campus").text();
+            var year= $(this).find("year").text();
+            var totalOffenses= $(this).find("totalOffenses").text();
+            var murder= $(this).find("murder").text();
+            var negligentManslaughter= $(this).find("negligentManslaughter").text();
+            var sexForcible= $(this).find("sexForcible").text();
+            var sexNonforcible= $(this).find("sexNonforcible").text();
+            var robbery= $(this).find("robbery").text();
+            var assault= $(this).find("assault").text();
+            var burglary= $(this).find("burglary").text();
+            var vehicleTheft= $(this).find("vehicleTheft").text();
+            var arson= $(this).find("arson").text();
+            
+            //build data table
+            crimeArray= new Array;
+            crimeArray.push(school,campus,year,sexForcible,robbery,assault,burglary,vehicleTheft,arson);
+            aaData.push(crimeArray);
+ 
+        });
+        
+        aoColumns= new Array;
+        aoColumns= [{"sTitle": "Institution"},{"sTitle": "Campus"}, {"sTitle": "Year"}, {"sTitle": "ForcibleSex"}, {"sTitle": "Robbery"}, {"sTitle": "Assault"}, {"sTitle": "Burglary"}, {"sTitle": "Vehicle Theft"}, {"sTitle": "Arson"}];
+        
+        $("#table").html( '<table cellpadding="0" cellspacing="0" border="0" class="display" id="person_table"></table>' );
+        $('#table').dataTable({
+            "aaData": aaData,
+            "aoColumns": aoColumns
+        });
+        
+        //pie chart builder
+        $(function () {
+             $('#uncPie').highcharts({
+                chart: {
+                    plotBackgroundColor: null,
+                    plotBorderWidth: null,
+                    plotShadow: false
+                },
+                title: {
+                    text: 'UNC-CH Campus Crime Breakdown (2005-2012)',
+                    color: "#56A0D3"
+                },
+                tooltip: {
+                    pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+                },
+                plotOptions: {
+                    pie: {
+                        allowPointSelect: true,
+                        cursor: 'pointer',
+                        dataLabels: {
+                            enabled: true,
+                            color: '#000000',
+                            connectorColor: '#000000',
+                            format: '<b>{point.name}</b>: {point.percentage:.1f} %'
+                        }
+                    }
+                },
+                series: [{
+                    type: 'pie',
+                    name: 'Percent of Total Crime',
+                    data: [
+                        ['Forcible Sex Offenses',   23.89],
+                        ['Arson', 1.04],
+                {
+                    name: 'Aggravated Assault',
+                    y: 12.35,
+                    sliced: true,
+                    selected: true
+                },
+                        ['Robbery',    4.11],
+                        ['Burglary',     49.1],
+                        ['Vehicle Theft',   9.26]
+                        
+                    ]
+            }]
+                });
+         }); // finish pie chart
+         
+           parsexml2();
+    }
+    
+    function parsexml2(){
+        console.log("working 2");
+        $.ajax({
+            type: "GET",
+            url: "data/criminalOffenses/Major.xml",
+            dataType: "xml",
+            success: function(xml){
+                $(xml).find('document').each(function(index){
+                    var asuData= $(this).find("ASU").text().split(",").map(Number);
+                    var ecuData=  $(this).find("ECU").text().split(",").map(Number);
+                    var stateData= $(this).find("STATE").text().split(",").map(Number);
+                    var uncData= $(this).find("UNC").text().split(",").map(Number);
+                    var uncgData=  $(this).find("UNCG").text().split(",").map(Number);
+                    var uncwData= $(this).find("UNCW").text().split(",").map(Number);
+                    var uncRape= $(this).find("uncSexOffenses").text().split(",").map(Number);
+                    var appRape= $(this).find("appSex").text().split(",").map(Number);
+                    var ecuRape= $(this).find("ecuSex").text().split(",").map(Number);
+                    var stateRape= $(this).find("stateSex").text().split(",").map(Number);
+                    var uncwRape= $(this).find("uncwSex").text().split(",").map(Number);
+                    
+                    
+            
+                    
+                    
+                
+                //bar graph builder
+                $(function () {
+                    $("#bar").highcharts({
+                        chart: {
+                            type: "column"
+                        },
+                        title: {
+                            text: "Criminal Offenses Across the UNC System",
+                            color: "#56A0D3"
+                        },
+                        xAxis: {
+                            categories: [
+                                "2005",
+                                "2006",
+                                "2007",
+                                "2008",
+                                "2009",
+                                "2010",
+                                "2011",
+                                "2012"
+                            ]
+                        },
+                        yAxis: {
+                            min: 0,
+                            title: {
+                                text: "Reported Criminal Offenses"
+                            }
+                        },
+                        tooltip: {
+                          headerFormat: '<span style="font-size: 10px">{point.key}</span><table>',
+                          pointFormat: '<tr><td style= "color: {series.color}; padding: 0">{series.name}: </td>' + '<td stlye="padding: 0"><b>{point.y:.1f}</b></td></tr>',
+                          footerFormat: '</table>',
+                          shared: true,
+                          useHTML: true,
+                        },
+                        plotOptions: {
+                          column: {
+                            pointPadding: 0.2,
+                            borderWidth: 0
+                          }  
+                        },
+                        series: [{
+                            name:"App State",
+                            data: asuData,
+                            color: "black"
+                        },{
+                            name: "East Carolina",
+                            data: ecuData,
+                            color: "purple"
+                        },{
+                           name: "N.C. State",
+                           data: stateData,
+                           color: "crimson"
+                        },{
+                            name: "UNC-ChapelHill",
+                            data: uncData,
+                            color: "#56A0D3"
+                        },{
+                            name: "UNC-Greensboro",
+                            data: uncgData,
+                            color: "gold"
+                        },{
+                            name: "UNC-Wilmington",
+                            data: uncwData,
+                            color: "green"
+                        }]
+                        
+                    });    
+                }) //finish bar graph
+                
+                //line graph builder
+                $(function () {
+                     $('#line').highcharts({
+                        title: {
+                            text: 'UNC System Forcible Sex Offenses',
+                            color: "#56A0D3",
+                            x: -20 //center
+                        },
+                        subtitle: {
+                            
+                        },
+                        xAxis: {
+                            categories: ['2005', '2006', '2007', '2008', '2009', '2010',
+                            '2011', '2012']
+                        },
+                        yAxis: {
+                            title: {
+                            text: 'Sexual Assaults'
+                        },
+                        plotLines: [{
+                            value: 0,
+                            width: 1,
+                            color: '#808080'
+                            }]
+                        },
+                        tooltip: {
+                            
+                        },
+                        legend: {
+                            layout: 'vertical',
+                            align: 'right',
+                            verticalAlign: 'middle',
+                            borderWidth: 0
+                        },
+                        series: [{
+                            name: 'UNC-Chapel Hill',
+                            data: uncRape
+                        },{
+                            name: 'App State',
+                            data: appRape
+                        },{
+                             name: 'East Carolina',
+                            data: ecuRape,
+                            color: 'purple'
+                        },{
+                             name: 'N.C. State',
+                            data: stateRape,
+                            color: "crimson"
+                        },{
+                             name: 'UNC-Wilmington',
+                            data: uncwRape,
+                            color: "green"
+                        }]
+                    });
+                }); 
+                
+                });
+            }
+        });
+    }
+
+</script>
+
+</html>

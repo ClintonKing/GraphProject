@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <item>
+      <crimeType>Forcible Sex</crimeType>
+      <percentage>23.89%</percentage>
+   </item>
+   <item>
+      <crimeType>Non-Forcible Sex</crimeType>
+      <percentage>0.26%</percentage>
+   </item>
+   <item>
+      <crimeType>Robbery</crimeType>
+      <percentage>4.11%</percentage>
+   </item>
+   <item>
+      <crimeType>Aggravated Assault</crimeType>
+      <percentage>12.35%</percentage>
+   </item>
+   <item>
+      <crimeType>Burglary</crimeType>
+      <percentage>49.1%</percentage>
+   </item>
+   <item>
+      <crimeType>Vehicle Theft</crimeType>
+      <percentage>9.26%</percentage>
+   </item>
+   <item>
+      <crimeType>Arson</crimeType>
+      <percentage>1.04%</percentage>
+   </item>

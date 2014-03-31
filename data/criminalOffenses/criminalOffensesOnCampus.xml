@@ -1,0 +1,2178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+   <set id="1">
+      <school>Appalachian State University</school>
+      <campus>Main Campus</campus>
+      <year>2005</year>
+      <totalOffenses>23</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>7</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>0</assault>
+      <burglary>12</burglary>
+      <vehicleTheft>2</vehicleTheft>
+      <arson>2</arson>
+   </set>
+   <set id="2">
+      <school>East Carolina University</school>
+      <campus>East Carolina University</campus>
+      <year>2005</year>
+      <totalOffenses>40</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>2</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>2</assault>
+      <burglary>34</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>2</arson>
+   </set>
+   <set id="3">
+      <school>East Carolina University</school>
+      <campus>East Carolina University Brody School of Medicine</campus>
+      <year>2005</year>
+      <totalOffenses>4</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>0</assault>
+      <burglary>4</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="4">
+      <school>Elizabeth City State University</school>
+      <campus>Elizabeth City State University</campus>
+      <year>2005</year>
+      <totalOffenses>57</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>1</robbery>
+      <assault>2</assault>
+      <burglary>51</burglary>
+      <vehicleTheft>3</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="5">
+      <school>Fayetteville State University</school>
+      <campus>Fayetteville State University</campus>
+      <year>2005</year>
+      <totalOffenses>6</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>1</assault>
+      <burglary>1</burglary>
+      <vehicleTheft>4</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="6">
+      <school>North Carolina A &amp; T State University</school>
+      <campus>North Carolina A&amp;T State University</campus>
+      <year>2005</year>
+      <totalOffenses>83</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>3</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>11</robbery>
+      <assault>11</assault>
+      <burglary>51</burglary>
+      <vehicleTheft>4</vehicleTheft>
+      <arson>3</arson>
+   </set>
+   <set id="7">
+      <school>North Carolina Central University</school>
+      <campus>North Carolina Central University</campus>
+      <year>2005</year>
+      <totalOffenses>49</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>1</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>4</robbery>
+      <assault>7</assault>
+      <burglary>28</burglary>
+      <vehicleTheft>8</vehicleTheft>
+      <arson>1</arson>
+   </set>
+   <set id="8">
+      <school>North Carolina State University at Raleigh</school>
+      <campus>Main Campus</campus>
+      <year>2005</year>
+      <totalOffenses>125</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>6</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>5</robbery>
+      <assault>4</assault>
+      <burglary>102</burglary>
+      <vehicleTheft>7</vehicleTheft>
+      <arson>1</arson>
+   </set>
+   <set id="9">
+      <school>UNC at Asheville</school>
+      <campus>UNC ASHEVILLE</campus>
+      <year>2005</year>
+      <totalOffenses>8</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>0</assault>
+      <burglary>5</burglary>
+      <vehicleTheft>1</vehicleTheft>
+      <arson>2</arson>
+   </set>
+   <set id="10">
+      <school>UNC at Chapel Hill</school>
+      <campus>The UNC at Chapel Hill</campus>
+      <year>2005</year>
+      <totalOffenses>66</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>12</sexForcible>
+      <sexNonforcible>1</sexNonforcible>
+      <robbery>3</robbery>
+      <assault>5</assault>
+      <burglary>41</burglary>
+      <vehicleTheft>4</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="11">
+      <school>UNC at Charlotte</school>
+      <campus>Main Campus</campus>
+      <year>2005</year>
+      <totalOffenses>74</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>4</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>4</robbery>
+      <assault>7</assault>
+      <burglary>39</burglary>
+      <vehicleTheft>19</vehicleTheft>
+      <arson>1</arson>
+   </set>
+   <set id="12">
+      <school>UNC at Greensboro</school>
+      <campus>Main Campus</campus>
+      <year>2005</year>
+      <totalOffenses>54</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>1</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>3</robbery>
+      <assault>2</assault>
+      <burglary>42</burglary>
+      <vehicleTheft>5</vehicleTheft>
+      <arson>1</arson>
+   </set>
+   <set id="13">
+      <school>UNC at Pembroke</school>
+      <campus>Main Campus</campus>
+      <year>2005</year>
+      <totalOffenses>18</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>2</robbery>
+      <assault>1</assault>
+      <burglary>12</burglary>
+      <vehicleTheft>3</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="14">
+      <school>UNC School of the Arts</school>
+      <campus>Main Campus</campus>
+      <year>2005</year>
+      <totalOffenses>25</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>0</assault>
+      <burglary>25</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="15">
+      <school>UNC Wilmington</school>
+      <campus>Main Campus</campus>
+      <year>2005</year>
+      <totalOffenses>48</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>7</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>1</robbery>
+      <assault>1</assault>
+      <burglary>38</burglary>
+      <vehicleTheft>1</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="16">
+      <school>Western Carolina University</school>
+      <campus>Main Campus</campus>
+      <year>2005</year>
+      <totalOffenses>35</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>2</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>13</assault>
+      <burglary>17</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>3</arson>
+   </set>
+   <set id="17">
+      <school>Winston-Salem State University</school>
+      <campus>WSSU Main Campus</campus>
+      <year>2005</year>
+      <totalOffenses>11</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>1</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>1</assault>
+      <burglary>5</burglary>
+      <vehicleTheft>4</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="18">
+      <school>Appalachian State University</school>
+      <campus>Main Campus</campus>
+      <year>2006</year>
+      <totalOffenses>45</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>2</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>2</assault>
+      <burglary>24</burglary>
+      <vehicleTheft>8</vehicleTheft>
+      <arson>9</arson>
+   </set>
+   <set id="19">
+      <school>East Carolina University</school>
+      <campus>East Carolina University</campus>
+      <year>2006</year>
+      <totalOffenses>60</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>5</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>3</robbery>
+      <assault>5</assault>
+      <burglary>43</burglary>
+      <vehicleTheft>2</vehicleTheft>
+      <arson>2</arson>
+   </set>
+   <set id="20">
+      <school>East Carolina University</school>
+      <campus>East Carolina University Brody School of Medicine</campus>
+      <year>2006</year>
+      <totalOffenses>8</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>1</assault>
+      <burglary>6</burglary>
+      <vehicleTheft>1</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="21">
+      <school>Elizabeth City State University</school>
+      <campus>Elizabeth City State University</campus>
+      <year>2006</year>
+      <totalOffenses>19</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>1</robbery>
+      <assault>8</assault>
+      <burglary>7</burglary>
+      <vehicleTheft>3</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="22">
+      <school>Fayetteville State University</school>
+      <campus>Fayetteville State University</campus>
+      <year>2006</year>
+      <totalOffenses>14</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>1</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>1</assault>
+      <burglary>3</burglary>
+      <vehicleTheft>9</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="23">
+      <school>North Carolina A &amp; T State University</school>
+      <campus>North Carolina A&amp;T State University</campus>
+      <year>2006</year>
+      <totalOffenses>58</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>8</robbery>
+      <assault>17</assault>
+      <burglary>21</burglary>
+      <vehicleTheft>11</vehicleTheft>
+      <arson>1</arson>
+   </set>
+   <set id="24">
+      <school>North Carolina Central University</school>
+      <campus>North Carolina Central University</campus>
+      <year>2006</year>
+      <totalOffenses>101</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>4</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>10</robbery>
+      <assault>8</assault>
+      <burglary>72</burglary>
+      <vehicleTheft>7</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="25">
+      <school>North Carolina State University at Raleigh</school>
+      <campus>Main Campus</campus>
+      <year>2006</year>
+      <totalOffenses>126</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>3</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>3</robbery>
+      <assault>7</assault>
+      <burglary>103</burglary>
+      <vehicleTheft>9</vehicleTheft>
+      <arson>1</arson>
+   </set>
+   <set id="26">
+      <school>UNC at Asheville</school>
+      <campus>UNC ASHEVILLE</campus>
+      <year>2006</year>
+      <totalOffenses>14</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>1</assault>
+      <burglary>13</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="27">
+      <school>UNC at Chapel Hill</school>
+      <campus>The UNC at Chapel Hill</campus>
+      <year>2006</year>
+      <totalOffenses>62</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>12</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>2</robbery>
+      <assault>16</assault>
+      <burglary>29</burglary>
+      <vehicleTheft>2</vehicleTheft>
+      <arson>1</arson>
+   </set>
+   <set id="28">
+      <school>UNC at Charlotte</school>
+      <campus>Main Campus</campus>
+      <year>2006</year>
+      <totalOffenses>57</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>3</robbery>
+      <assault>4</assault>
+      <burglary>37</burglary>
+      <vehicleTheft>10</vehicleTheft>
+      <arson>3</arson>
+   </set>
+   <set id="29">
+      <school>UNC at Greensboro</school>
+      <campus>Main Campus</campus>
+      <year>2006</year>
+      <totalOffenses>54</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>4</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>2</robbery>
+      <assault>3</assault>
+      <burglary>38</burglary>
+      <vehicleTheft>6</vehicleTheft>
+      <arson>1</arson>
+   </set>
+   <set id="30">
+      <school>UNC at Pembroke</school>
+      <campus>Main Campus</campus>
+      <year>2006</year>
+      <totalOffenses>16</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>0</assault>
+      <burglary>15</burglary>
+      <vehicleTheft>1</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="31">
+      <school>UNC School of the Arts</school>
+      <campus>Main Campus</campus>
+      <year>2006</year>
+      <totalOffenses>14</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>1</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>1</robbery>
+      <assault>0</assault>
+      <burglary>12</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="32">
+      <school>UNC Wilmington</school>
+      <campus>Main Campus</campus>
+      <year>2006</year>
+      <totalOffenses>52</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>3</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>1</robbery>
+      <assault>1</assault>
+      <burglary>37</burglary>
+      <vehicleTheft>7</vehicleTheft>
+      <arson>3</arson>
+   </set>
+   <set id="33">
+      <school>Western Carolina University</school>
+      <campus>Main Campus</campus>
+      <year>2006</year>
+      <totalOffenses>25</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>5</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>5</assault>
+      <burglary>9</burglary>
+      <vehicleTheft>4</vehicleTheft>
+      <arson>2</arson>
+   </set>
+   <set id="34">
+      <school>Winston-Salem State University</school>
+      <campus>WSSU Main Campus</campus>
+      <year>2006</year>
+      <totalOffenses>23</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>1</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>2</robbery>
+      <assault>3</assault>
+      <burglary>14</burglary>
+      <vehicleTheft>3</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="35">
+      <school>Appalachian State University</school>
+      <campus>Main Campus</campus>
+      <year>2007</year>
+      <totalOffenses>32</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>2</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>1</robbery>
+      <assault>1</assault>
+      <burglary>24</burglary>
+      <vehicleTheft>1</vehicleTheft>
+      <arson>3</arson>
+   </set>
+   <set id="36">
+      <school>East Carolina University</school>
+      <campus>East Carolina University</campus>
+      <year>2007</year>
+      <totalOffenses>59</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>1</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>5</robbery>
+      <assault>6</assault>
+      <burglary>44</burglary>
+      <vehicleTheft>3</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="37">
+      <school>East Carolina University</school>
+      <campus>East Carolina University Brody School of Medicine</campus>
+      <year>2007</year>
+      <totalOffenses>4</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>1</assault>
+      <burglary>3</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="38">
+      <school>Elizabeth City State University</school>
+      <campus>Elizabeth City State University</campus>
+      <year>2007</year>
+      <totalOffenses>50</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>4</robbery>
+      <assault>7</assault>
+      <burglary>37</burglary>
+      <vehicleTheft>2</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="39">
+      <school>Fayetteville State University</school>
+      <campus>Fayetteville State University</campus>
+      <year>2007</year>
+      <totalOffenses>18</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>2</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>2</robbery>
+      <assault>0</assault>
+      <burglary>7</burglary>
+      <vehicleTheft>7</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="40">
+      <school>North Carolina A &amp; T State University</school>
+      <campus>North Carolina A&amp;T State University</campus>
+      <year>2007</year>
+      <totalOffenses>83</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>1</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>10</robbery>
+      <assault>12</assault>
+      <burglary>54</burglary>
+      <vehicleTheft>4</vehicleTheft>
+      <arson>2</arson>
+   </set>
+   <set id="41">
+      <school>North Carolina Central University</school>
+      <campus>North Carolina Central University</campus>
+      <year>2007</year>
+      <totalOffenses>63</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>2</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>4</robbery>
+      <assault>10</assault>
+      <burglary>39</burglary>
+      <vehicleTheft>8</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="42">
+      <school>North Carolina State University at Raleigh</school>
+      <campus>Main Campus</campus>
+      <year>2007</year>
+      <totalOffenses>87</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>6</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>8</robbery>
+      <assault>6</assault>
+      <burglary>57</burglary>
+      <vehicleTheft>9</vehicleTheft>
+      <arson>1</arson>
+   </set>
+   <set id="43">
+      <school>UNC at Asheville</school>
+      <campus>UNC ASHEVILLE</campus>
+      <year>2007</year>
+      <totalOffenses>5</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>0</assault>
+      <burglary>5</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="44">
+      <school>UNC at Chapel Hill</school>
+      <campus>The UNC at Chapel Hill</campus>
+      <year>2007</year>
+      <totalOffenses>28</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>7</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>1</robbery>
+      <assault>0</assault>
+      <burglary>12</burglary>
+      <vehicleTheft>7</vehicleTheft>
+      <arson>1</arson>
+   </set>
+   <set id="45">
+      <school>UNC at Charlotte</school>
+      <campus>Main Campus</campus>
+      <year>2007</year>
+      <totalOffenses>50</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>1</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>4</robbery>
+      <assault>2</assault>
+      <burglary>21</burglary>
+      <vehicleTheft>22</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="46">
+      <school>UNC at Greensboro</school>
+      <campus>Main Campus</campus>
+      <year>2007</year>
+      <totalOffenses>50</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>2</robbery>
+      <assault>2</assault>
+      <burglary>41</burglary>
+      <vehicleTheft>4</vehicleTheft>
+      <arson>1</arson>
+   </set>
+   <set id="47">
+      <school>UNC at Pembroke</school>
+      <campus>Main Campus</campus>
+      <year>2007</year>
+      <totalOffenses>8</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>1</robbery>
+      <assault>0</assault>
+      <burglary>6</burglary>
+      <vehicleTheft>1</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="48">
+      <school>UNC School of the Arts</school>
+      <campus>Main Campus</campus>
+      <year>2007</year>
+      <totalOffenses>16</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>0</assault>
+      <burglary>15</burglary>
+      <vehicleTheft>1</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="49">
+      <school>UNC Wilmington</school>
+      <campus>Main Campus</campus>
+      <year>2007</year>
+      <totalOffenses>71</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>2</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>0</assault>
+      <burglary>59</burglary>
+      <vehicleTheft>9</vehicleTheft>
+      <arson>1</arson>
+   </set>
+   <set id="50">
+      <school>Western Carolina University</school>
+      <campus>Main Campus</campus>
+      <year>2007</year>
+      <totalOffenses>38</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>1</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>1</assault>
+      <burglary>33</burglary>
+      <vehicleTheft>2</vehicleTheft>
+      <arson>1</arson>
+   </set>
+   <set id="51">
+      <school>Winston-Salem State University</school>
+      <campus>WSSU Main Campus</campus>
+      <year>2007</year>
+      <totalOffenses>22</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>1</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>3</robbery>
+      <assault>4</assault>
+      <burglary>12</burglary>
+      <vehicleTheft>2</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="52">
+      <school>Appalachian State University</school>
+      <campus>Main Campus</campus>
+      <year>2008</year>
+      <totalOffenses>23</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>4</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>1</robbery>
+      <assault>0</assault>
+      <burglary>18</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="53">
+      <school>East Carolina University</school>
+      <campus>East Carolina University</campus>
+      <year>2008</year>
+      <totalOffenses>47</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>3</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>1</robbery>
+      <assault>4</assault>
+      <burglary>34</burglary>
+      <vehicleTheft>2</vehicleTheft>
+      <arson>3</arson>
+   </set>
+   <set id="54">
+      <school>East Carolina University</school>
+      <campus>East Carolina University Brody School of Medicine</campus>
+      <year>2008</year>
+      <totalOffenses>2</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>0</assault>
+      <burglary>2</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="55">
+      <school>Elizabeth City State University</school>
+      <campus>Elizabeth City State University</campus>
+      <year>2008</year>
+      <totalOffenses>17</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>3</robbery>
+      <assault>2</assault>
+      <burglary>12</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="56">
+      <school>Fayetteville State University</school>
+      <campus>Fayetteville State University</campus>
+      <year>2008</year>
+      <totalOffenses>57</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>3</robbery>
+      <assault>1</assault>
+      <burglary>46</burglary>
+      <vehicleTheft>7</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="57">
+      <school>North Carolina A &amp; T State University</school>
+      <campus>North Carolina A&amp;T State University</campus>
+      <year>2008</year>
+      <totalOffenses>66</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>9</robbery>
+      <assault>2</assault>
+      <burglary>39</burglary>
+      <vehicleTheft>12</vehicleTheft>
+      <arson>4</arson>
+   </set>
+   <set id="58">
+      <school>North Carolina Central University</school>
+      <campus>North Carolina Central University</campus>
+      <year>2008</year>
+      <totalOffenses>71</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>11</robbery>
+      <assault>11</assault>
+      <burglary>33</burglary>
+      <vehicleTheft>16</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="59">
+      <school>North Carolina State University at Raleigh</school>
+      <campus>Main Campus</campus>
+      <year>2008</year>
+      <totalOffenses>81</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>5</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>9</robbery>
+      <assault>7</assault>
+      <burglary>51</burglary>
+      <vehicleTheft>9</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="60">
+      <school>UNC at Asheville</school>
+      <campus>UNC ASHEVILLE</campus>
+      <year>2008</year>
+      <totalOffenses>8</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>1</robbery>
+      <assault>1</assault>
+      <burglary>6</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="61">
+      <school>UNC at Chapel Hill</school>
+      <campus>The UNC at Chapel Hill</campus>
+      <year>2008</year>
+      <totalOffenses>26</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>4</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>3</robbery>
+      <assault>8</assault>
+      <burglary>6</burglary>
+      <vehicleTheft>5</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="62">
+      <school>UNC at Charlotte</school>
+      <campus>Main Campus</campus>
+      <year>2008</year>
+      <totalOffenses>125</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>2</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>5</robbery>
+      <assault>6</assault>
+      <burglary>97</burglary>
+      <vehicleTheft>13</vehicleTheft>
+      <arson>2</arson>
+   </set>
+   <set id="63">
+      <school>UNC at Greensboro</school>
+      <campus>Main Campus</campus>
+      <year>2008</year>
+      <totalOffenses>53</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>1</robbery>
+      <assault>1</assault>
+      <burglary>47</burglary>
+      <vehicleTheft>3</vehicleTheft>
+      <arson>1</arson>
+   </set>
+   <set id="64">
+      <school>UNC at Pembroke</school>
+      <campus>Main Campus</campus>
+      <year>2008</year>
+      <totalOffenses>12</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>0</assault>
+      <burglary>11</burglary>
+      <vehicleTheft>1</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="65">
+      <school>UNC School of the Arts</school>
+      <campus>Main Campus</campus>
+      <year>2008</year>
+      <totalOffenses>8</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>0</assault>
+      <burglary>5</burglary>
+      <vehicleTheft>3</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="66">
+      <school>UNC Wilmington</school>
+      <campus>Main Campus</campus>
+      <year>2008</year>
+      <totalOffenses>64</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>1</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>2</assault>
+      <burglary>58</burglary>
+      <vehicleTheft>3</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="67">
+      <school>Western Carolina University</school>
+      <campus>Main Campus</campus>
+      <year>2008</year>
+      <totalOffenses>31</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>1</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>5</assault>
+      <burglary>23</burglary>
+      <vehicleTheft>2</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="68">
+      <school>Winston-Salem State University</school>
+      <campus>WSSU Main Campus</campus>
+      <year>2008</year>
+      <totalOffenses>45</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>2</robbery>
+      <assault>0</assault>
+      <burglary>40</burglary>
+      <vehicleTheft>3</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="69">
+      <school>Appalachian State University</school>
+      <campus>Main Campus</campus>
+      <year>2009</year>
+      <totalOffenses>29</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>5</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>0</assault>
+      <burglary>22</burglary>
+      <vehicleTheft>2</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="70">
+      <school>East Carolina University</school>
+      <campus>East Carolina University</campus>
+      <year>2009</year>
+      <totalOffenses>31</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>11</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>3</assault>
+      <burglary>10</burglary>
+      <vehicleTheft>4</vehicleTheft>
+      <arson>3</arson>
+   </set>
+   <set id="71">
+      <school>East Carolina University</school>
+      <campus>East Carolina University Brody School of Medicine</campus>
+      <year>2009</year>
+      <totalOffenses>1</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>0</assault>
+      <burglary>0</burglary>
+      <vehicleTheft>1</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="72">
+      <school>Elizabeth City State University</school>
+      <campus>Elizabeth City State University</campus>
+      <year>2009</year>
+      <totalOffenses>24</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>1</robbery>
+      <assault>1</assault>
+      <burglary>22</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="73">
+      <school>Fayetteville State University</school>
+      <campus>Fayetteville State University</campus>
+      <year>2009</year>
+      <totalOffenses>49</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>3</robbery>
+      <assault>1</assault>
+      <burglary>32</burglary>
+      <vehicleTheft>13</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="74">
+      <school>North Carolina A &amp; T State University</school>
+      <campus>North Carolina A&amp;T State University</campus>
+      <year>2009</year>
+      <totalOffenses>22</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>3</robbery>
+      <assault>2</assault>
+      <burglary>10</burglary>
+      <vehicleTheft>6</vehicleTheft>
+      <arson>1</arson>
+   </set>
+   <set id="75">
+      <school>North Carolina Central University</school>
+      <campus>North Carolina Central University</campus>
+      <year>2009</year>
+      <totalOffenses>52</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>2</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>3</robbery>
+      <assault>4</assault>
+      <burglary>36</burglary>
+      <vehicleTheft>7</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="76">
+      <school>North Carolina State University at Raleigh</school>
+      <campus>Main Campus</campus>
+      <year>2009</year>
+      <totalOffenses>52</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>5</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>5</robbery>
+      <assault>4</assault>
+      <burglary>29</burglary>
+      <vehicleTheft>8</vehicleTheft>
+      <arson>1</arson>
+   </set>
+   <set id="77">
+      <school>UNC at Asheville</school>
+      <campus>UNC ASHEVILLE</campus>
+      <year>2009</year>
+      <totalOffenses>17</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>3</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>1</robbery>
+      <assault>1</assault>
+      <burglary>12</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="78">
+      <school>UNC at Chapel Hill</school>
+      <campus>The UNC at Chapel Hill</campus>
+      <year>2009</year>
+      <totalOffenses>27</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>6</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>2</robbery>
+      <assault>5</assault>
+      <burglary>10</burglary>
+      <vehicleTheft>4</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="79">
+      <school>UNC at Charlotte</school>
+      <campus>Main Campus</campus>
+      <year>2009</year>
+      <totalOffenses>100</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>4</sexForcible>
+      <sexNonforcible>2</sexNonforcible>
+      <robbery>4</robbery>
+      <assault>1</assault>
+      <burglary>67</burglary>
+      <vehicleTheft>20</vehicleTheft>
+      <arson>2</arson>
+   </set>
+   <set id="80">
+      <school>UNC at Greensboro</school>
+      <campus>Main Campus</campus>
+      <year>2009</year>
+      <totalOffenses>25</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>1</assault>
+      <burglary>21</burglary>
+      <vehicleTheft>3</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="81">
+      <school>UNC at Pembroke</school>
+      <campus>Main Campus</campus>
+      <year>2009</year>
+      <totalOffenses>20</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>2</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>1</assault>
+      <burglary>15</burglary>
+      <vehicleTheft>2</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="82">
+      <school>UNC School of the Arts</school>
+      <campus>Main Campus</campus>
+      <year>2009</year>
+      <totalOffenses>9</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>1</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>0</assault>
+      <burglary>6</burglary>
+      <vehicleTheft>2</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="83">
+      <school>UNC Wilmington</school>
+      <campus>Main Campus</campus>
+      <year>2009</year>
+      <totalOffenses>37</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>2</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>1</robbery>
+      <assault>1</assault>
+      <burglary>31</burglary>
+      <vehicleTheft>2</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="84">
+      <school>Western Carolina University</school>
+      <campus>Main Campus</campus>
+      <year>2009</year>
+      <totalOffenses>34</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>3</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>1</assault>
+      <burglary>28</burglary>
+      <vehicleTheft>2</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="85">
+      <school>Winston-Salem State University</school>
+      <campus>WSSU Main Campus</campus>
+      <year>2009</year>
+      <totalOffenses>91</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>6</robbery>
+      <assault>2</assault>
+      <burglary>78</burglary>
+      <vehicleTheft>5</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="86">
+      <school>Appalachian State University</school>
+      <campus>Main Campus</campus>
+      <year>2010</year>
+      <totalOffenses>28</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>3</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>1</robbery>
+      <assault>1</assault>
+      <burglary>21</burglary>
+      <vehicleTheft>1</vehicleTheft>
+      <arson>1</arson>
+   </set>
+   <set id="87">
+      <school>Appalachian State University</school>
+      <campus>NCCET</campus>
+      <year>2010</year>
+      <totalOffenses>0</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>0</assault>
+      <burglary>0</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="88">
+      <school>Appalachian State University</school>
+      <campus>ASU Center at Hickory</campus>
+      <year>2010</year>
+      <totalOffenses>0</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>0</assault>
+      <burglary>0</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="89">
+      <school>Appalachian State University</school>
+      <campus>ASU Center at Caldwell</campus>
+      <year>2010</year>
+      <totalOffenses>0</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>0</assault>
+      <burglary>0</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="90">
+      <school>Appalachian State University</school>
+      <campus>ASU Center at Burke</campus>
+      <year>2010</year>
+      <totalOffenses>0</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>0</assault>
+      <burglary>0</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="91">
+      <school>East Carolina University</school>
+      <campus>East Carolina University</campus>
+      <year>2010</year>
+      <totalOffenses>18</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>4</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>3</robbery>
+      <assault>1</assault>
+      <burglary>8</burglary>
+      <vehicleTheft>1</vehicleTheft>
+      <arson>1</arson>
+   </set>
+   <set id="92">
+      <school>East Carolina University</school>
+      <campus>East Carolina University Brody School of Medicine</campus>
+      <year>2010</year>
+      <totalOffenses>0</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>0</assault>
+      <burglary>0</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="93">
+      <school>Elizabeth City State University</school>
+      <campus>Elizabeth City State University</campus>
+      <year>2010</year>
+      <totalOffenses>7</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>5</robbery>
+      <assault>1</assault>
+      <burglary>1</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="94">
+      <school>Fayetteville State University</school>
+      <campus>Fayetteville State University</campus>
+      <year>2010</year>
+      <totalOffenses>40</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>3</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>2</robbery>
+      <assault>1</assault>
+      <burglary>25</burglary>
+      <vehicleTheft>8</vehicleTheft>
+      <arson>1</arson>
+   </set>
+   <set id="95">
+      <school>North Carolina A &amp; T State University</school>
+      <campus>North Carolina A&amp;T State University</campus>
+      <year>2010</year>
+      <totalOffenses>11</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>1</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>1</robbery>
+      <assault>0</assault>
+      <burglary>5</burglary>
+      <vehicleTheft>4</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="96">
+      <school>North Carolina Central University</school>
+      <campus>North Carolina Central University</campus>
+      <year>2010</year>
+      <totalOffenses>24</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>2</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>1</assault>
+      <burglary>19</burglary>
+      <vehicleTheft>2</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="97">
+      <school>North Carolina State University at Raleigh</school>
+      <campus>Main Campus</campus>
+      <year>2010</year>
+      <totalOffenses>65</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>5</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>1</robbery>
+      <assault>12</assault>
+      <burglary>34</burglary>
+      <vehicleTheft>13</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="98">
+      <school>UNC at Asheville</school>
+      <campus>UNC ASHEVILLE</campus>
+      <year>2010</year>
+      <totalOffenses>18</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>3</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>1</assault>
+      <burglary>13</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>1</arson>
+   </set>
+   <set id="99">
+      <school>UNC at Chapel Hill</school>
+      <campus>The UNC at Chapel Hill</campus>
+      <year>2010</year>
+      <totalOffenses>52</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>19</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>1</robbery>
+      <assault>4</assault>
+      <burglary>28</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="100">
+      <school>UNC at Charlotte</school>
+      <campus>Main Campus</campus>
+      <year>2010</year>
+      <totalOffenses>128</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>2</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>1</assault>
+      <burglary>109</burglary>
+      <vehicleTheft>10</vehicleTheft>
+      <arson>6</arson>
+   </set>
+   <set id="101">
+      <school>UNC at Greensboro</school>
+      <campus>Main Campus</campus>
+      <year>2010</year>
+      <totalOffenses>24</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>0</assault>
+      <burglary>23</burglary>
+      <vehicleTheft>1</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="102">
+      <school>UNC at Pembroke</school>
+      <campus>Main Campus</campus>
+      <year>2010</year>
+      <totalOffenses>32</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>0</assault>
+      <burglary>29</burglary>
+      <vehicleTheft>3</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="103">
+      <school>UNC School of the Arts</school>
+      <campus>Main Campus</campus>
+      <year>2010</year>
+      <totalOffenses>5</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>0</assault>
+      <burglary>5</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="104">
+      <school>UNC Wilmington</school>
+      <campus>Main Campus</campus>
+      <year>2010</year>
+      <totalOffenses>30</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>3</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>2</assault>
+      <burglary>16</burglary>
+      <vehicleTheft>8</vehicleTheft>
+      <arson>1</arson>
+   </set>
+   <set id="105">
+      <school>Western Carolina University</school>
+      <campus>Main Campus</campus>
+      <year>2010</year>
+      <totalOffenses>46</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>5</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>3</assault>
+      <burglary>38</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="106">
+      <school>Winston-Salem State University</school>
+      <campus>WSSU Main Campus</campus>
+      <year>2010</year>
+      <totalOffenses>26</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>6</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>5</robbery>
+      <assault>2</assault>
+      <burglary>10</burglary>
+      <vehicleTheft>3</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="107">
+      <school>Appalachian State University</school>
+      <campus>Main Campus</campus>
+      <year>2011</year>
+      <totalOffenses>18</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>4</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>1</robbery>
+      <assault>0</assault>
+      <burglary>11</burglary>
+      <vehicleTheft>2</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="108">
+      <school>Appalachian State University</school>
+      <campus>NCCET</campus>
+      <year>2011</year>
+      <totalOffenses>0</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>0</assault>
+      <burglary>0</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="109">
+      <school>Appalachian State University</school>
+      <campus>ASU Center at Hickory</campus>
+      <year>2011</year>
+      <totalOffenses>0</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>0</assault>
+      <burglary>0</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="110">
+      <school>Appalachian State University</school>
+      <campus>ASU Center at Caldwell</campus>
+      <year>2011</year>
+      <totalOffenses>0</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>0</assault>
+      <burglary>0</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="111">
+      <school>Appalachian State University</school>
+      <campus>ASU Center at Burke</campus>
+      <year>2011</year>
+      <totalOffenses>0</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>0</assault>
+      <burglary>0</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="112">
+      <school>East Carolina University</school>
+      <campus>East Carolina University</campus>
+      <year>2011</year>
+      <totalOffenses>32</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>8</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>4</robbery>
+      <assault>2</assault>
+      <burglary>16</burglary>
+      <vehicleTheft>2</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="113">
+      <school>East Carolina University</school>
+      <campus>East Carolina University Brody School of Medicine</campus>
+      <year>2011</year>
+      <totalOffenses>2</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>1</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>0</assault>
+      <burglary>1</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="114">
+      <school>Elizabeth City State University</school>
+      <campus>Elizabeth City State University</campus>
+      <year>2011</year>
+      <totalOffenses>36</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>1</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>3</robbery>
+      <assault>7</assault>
+      <burglary>25</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="115">
+      <school>Fayetteville State University</school>
+      <campus>Fayetteville State University</campus>
+      <year>2011</year>
+      <totalOffenses>59</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>7</robbery>
+      <assault>1</assault>
+      <burglary>44</burglary>
+      <vehicleTheft>6</vehicleTheft>
+      <arson>1</arson>
+   </set>
+   <set id="116">
+      <school>North Carolina A &amp; T State University</school>
+      <campus>North Carolina A&amp;T State University</campus>
+      <year>2011</year>
+      <totalOffenses>16</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>4</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>2</robbery>
+      <assault>3</assault>
+      <burglary>4</burglary>
+      <vehicleTheft>3</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="117">
+      <school>North Carolina Central University</school>
+      <campus>North Carolina Central University</campus>
+      <year>2011</year>
+      <totalOffenses>47</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>5</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>3</robbery>
+      <assault>4</assault>
+      <burglary>32</burglary>
+      <vehicleTheft>3</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="118">
+      <school>North Carolina State University at Raleigh</school>
+      <campus>Main Campus</campus>
+      <year>2011</year>
+      <totalOffenses>75</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>7</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>6</robbery>
+      <assault>9</assault>
+      <burglary>41</burglary>
+      <vehicleTheft>12</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="119">
+      <school>UNC at Asheville</school>
+      <campus>UNC ASHEVILLE</campus>
+      <year>2011</year>
+      <totalOffenses>12</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>3</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>0</assault>
+      <burglary>9</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="120">
+      <school>UNC at Chapel Hill</school>
+      <campus>The UNC at Chapel Hill</campus>
+      <year>2011</year>
+      <totalOffenses>58</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>12</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>3</robbery>
+      <assault>3</assault>
+      <burglary>36</burglary>
+      <vehicleTheft>3</vehicleTheft>
+      <arson>1</arson>
+   </set>
+   <set id="121">
+      <school>UNC at Charlotte</school>
+      <campus>Main Campus</campus>
+      <year>2011</year>
+      <totalOffenses>83</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>2</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>6</robbery>
+      <assault>1</assault>
+      <burglary>65</burglary>
+      <vehicleTheft>9</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="122">
+      <school>UNC at Greensboro</school>
+      <campus>Main Campus</campus>
+      <year>2011</year>
+      <totalOffenses>21</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>3</robbery>
+      <assault>3</assault>
+      <burglary>14</burglary>
+      <vehicleTheft>1</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="123">
+      <school>UNC at Pembroke</school>
+      <campus>Main Campus</campus>
+      <year>2011</year>
+      <totalOffenses>19</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>1</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>3</robbery>
+      <assault>1</assault>
+      <burglary>14</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="124">
+      <school>UNC School of the Arts</school>
+      <campus>Main Campus</campus>
+      <year>2011</year>
+      <totalOffenses>4</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>2</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>1</robbery>
+      <assault>0</assault>
+      <burglary>1</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="125">
+      <school>UNC Wilmington</school>
+      <campus>Main Campus</campus>
+      <year>2011</year>
+      <totalOffenses>24</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>3</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>0</assault>
+      <burglary>18</burglary>
+      <vehicleTheft>3</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="126">
+      <school>Western Carolina University</school>
+      <campus>Main Campus</campus>
+      <year>2011</year>
+      <totalOffenses>27</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>3</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>1</assault>
+      <burglary>23</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="127">
+      <school>Winston-Salem State University</school>
+      <campus>WSSU Main Campus</campus>
+      <year>2011</year>
+      <totalOffenses>14</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>1</robbery>
+      <assault>1</assault>
+      <burglary>11</burglary>
+      <vehicleTheft>1</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="128">
+      <school>Appalachian State University</school>
+      <campus>Main Campus</campus>
+      <year>2012</year>
+      <totalOffenses>28</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>8</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>1</robbery>
+      <assault>0</assault>
+      <burglary>17</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>2</arson>
+   </set>
+   <set id="129">
+      <school>Appalachian State University</school>
+      <campus>ASU Center at Caldwell</campus>
+      <year>2012</year>
+      <totalOffenses>0</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>0</assault>
+      <burglary>0</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="130">
+      <school>East Carolina University</school>
+      <campus>East Carolina University</campus>
+      <year>2012</year>
+      <totalOffenses>20</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>11</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>0</assault>
+      <burglary>9</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="131">
+      <school>East Carolina University</school>
+      <campus>East Carolina University Brody School of Medicine</campus>
+      <year>2012</year>
+      <totalOffenses>1</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>0</assault>
+      <burglary>1</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="132">
+      <school>Elizabeth City State University</school>
+      <campus>Elizabeth City State University</campus>
+      <year>2012</year>
+      <totalOffenses>21</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>1</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>1</robbery>
+      <assault>2</assault>
+      <burglary>15</burglary>
+      <vehicleTheft>2</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="133">
+      <school>Fayetteville State University</school>
+      <campus>Fayetteville State University</campus>
+      <year>2012</year>
+      <totalOffenses>47</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>4</sexForcible>
+      <sexNonforcible>1</sexNonforcible>
+      <robbery>1</robbery>
+      <assault>1</assault>
+      <burglary>37</burglary>
+      <vehicleTheft>3</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="134">
+      <school>North Carolina A &amp; T State University</school>
+      <campus>North Carolina A&amp;T State University</campus>
+      <year>2012</year>
+      <totalOffenses>13</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>2</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>1</robbery>
+      <assault>2</assault>
+      <burglary>7</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>1</arson>
+   </set>
+   <set id="135">
+      <school>North Carolina Central University</school>
+      <campus>North Carolina Central University</campus>
+      <year>2012</year>
+      <totalOffenses>49</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>4</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>1</robbery>
+      <assault>2</assault>
+      <burglary>37</burglary>
+      <vehicleTheft>3</vehicleTheft>
+      <arson>2</arson>
+   </set>
+   <set id="136">
+      <school>North Carolina State University at Raleigh</school>
+      <campus>Main Campus</campus>
+      <year>2012</year>
+      <totalOffenses>59</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>2</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>8</robbery>
+      <assault>9</assault>
+      <burglary>29</burglary>
+      <vehicleTheft>11</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="137">
+      <school>UNC at Asheville</school>
+      <campus>UNC ASHEVILLE</campus>
+      <year>2012</year>
+      <totalOffenses>6</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>3</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>0</assault>
+      <burglary>2</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>1</arson>
+   </set>
+   <set id="138">
+      <school>UNC at Chapel Hill</school>
+      <campus>The UNC at Chapel Hill</campus>
+      <year>2012</year>
+      <totalOffenses>70</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>21</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>1</robbery>
+      <assault>7</assault>
+      <burglary>29</burglary>
+      <vehicleTheft>11</vehicleTheft>
+      <arson>1</arson>
+   </set>
+   <set id="139">
+      <school>UNC at Charlotte</school>
+      <campus>Main Campus</campus>
+      <year>2012</year>
+      <totalOffenses>57</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>5</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>4</robbery>
+      <assault>2</assault>
+      <burglary>43</burglary>
+      <vehicleTheft>2</vehicleTheft>
+      <arson>1</arson>
+   </set>
+   <set id="140">
+      <school>UNC at Greensboro</school>
+      <campus>Main Campus</campus>
+      <year>2012</year>
+      <totalOffenses>15</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>1</robbery>
+      <assault>0</assault>
+      <burglary>12</burglary>
+      <vehicleTheft>2</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="141">
+      <school>UNC at Pembroke</school>
+      <campus>Main Campus</campus>
+      <year>2012</year>
+      <totalOffenses>14</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>3</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>1</robbery>
+      <assault>0</assault>
+      <burglary>10</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="142">
+      <school>UNC School of the Arts</school>
+      <campus>Main Campus</campus>
+      <year>2012</year>
+      <totalOffenses>12</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>0</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>0</robbery>
+      <assault>0</assault>
+      <burglary>9</burglary>
+      <vehicleTheft>2</vehicleTheft>
+      <arson>1</arson>
+   </set>
+   <set id="143">
+      <school>UNC Wilmington</school>
+      <campus>Main Campus</campus>
+      <year>2012</year>
+      <totalOffenses>21</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>3</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>1</robbery>
+      <assault>1</assault>
+      <burglary>12</burglary>
+      <vehicleTheft>4</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="144">
+      <school>Western Carolina University</school>
+      <campus>Main Campus</campus>
+      <year>2012</year>
+      <totalOffenses>14</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>4</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>1</robbery>
+      <assault>0</assault>
+      <burglary>9</burglary>
+      <vehicleTheft>0</vehicleTheft>
+      <arson>0</arson>
+   </set>
+   <set id="145">
+      <school>Winston-Salem State University</school>
+      <campus>WSSU Main Campus</campus>
+      <year>2012</year>
+      <totalOffenses>19</totalOffenses>
+      <murder>0</murder>
+      <negligentManslaughter>0</negligentManslaughter>
+      <sexForcible>1</sexForcible>
+      <sexNonforcible>0</sexNonforcible>
+      <robbery>3</robbery>
+      <assault>1</assault>
+      <burglary>10</burglary>
+      <vehicleTheft>4</vehicleTheft>
+      <arson>0</arson>
+   </set>
+</document>
